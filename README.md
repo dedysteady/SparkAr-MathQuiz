@@ -1,4 +1,11 @@
 # SparkAr Math Quiz
+
+![Downloads](https://img.shields.io/github/downloads/dedysteady/SparkAr-MathQuiz/total)
+![HitCount](https://hits.dwyl.com/dedysteady/SparkAr-MathQuiz.svg?style=flat&show=unique)
+![Issues](https://img.shields.io/github/issues/dedysteady/SparkAr-MathQuiz)
+![Forks](https://img.shields.io/github/forks/dedysteady/SparkAr-MathQuiz)
+![Stars](https://img.shields.io/github/stars/dedysteady/SparkAr-MathQuiz)
+
 I'm so excited with Augmented Reality..<br>
 This filter was made for Dicoding Submission https://www.dicoding.com/certificates/N9ZOD4WVDPG5 <br>
 I got 100.000 Impressions of this filter. So, I upload in GitHub to save my project
